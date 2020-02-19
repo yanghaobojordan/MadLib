@@ -1,6 +1,6 @@
-# Lab3
 
-## Project Description
+
+## MadLib
 <!-- you can include known bugs, design decisions, external references used... -->
 
-### Component Structure
+
